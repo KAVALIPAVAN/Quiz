@@ -51,22 +51,36 @@ You can view the screenshots and video of the project
 1. Clone this repository:
    ```bash
    git clone https://github.com/KAVALIPAVAN/Quiz.git
-   
+
+
+### cd quiz:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/KAVALIPAVAN/Quiz.git
+
+
+### Steps to Install:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/KAVALIPAVAN/Quiz.git
+ ``
+ 
 ### Navigate to the project folder:
 
 ```bash
  cd quiz
+```
 
 ### Install dependencies:
 
 ```bash
-npmi i`
-
+npmi i
+```
 ### Start the development server:
 ```bash
 npm start
-
-Usage
+```
+### Usage
 Once the app is up and running, navigate to http://localhost:3000 to begin your quiz. Enjoy testing your knowledge!
 
 

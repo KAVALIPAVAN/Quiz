@@ -35,6 +35,10 @@ This project is a quiz application designed to test your knowledge on various to
 - Node.js (v16 or above)
 - npm or yarn
 
+
+## **Screenshots and video**
+([https://example.com/path-to-your-image.png](https://drive.google.com/drive/folders/1FcZuJ4IaQ7XVSfyKo3_yTvyM9ps1HqaO?usp=sharing))
+
 ### Steps to Install:
 1. Clone this repository:
    ```bash
@@ -43,7 +47,7 @@ This project is a quiz application designed to test your knowledge on various to
 2.Navigate to the project folder:
 
 ```bash
- cd quiz
+ cd quiz`
 
 3)Install dependencies:
 ```bash
@@ -57,5 +61,4 @@ Usage
 Once the app is up and running, navigate to http://localhost:3000 to begin your quiz. Enjoy testing your knowledge!
 
 
-## **Screenshots and video**
-![Alt text]([https://example.com/path-to-your-image.png](https://drive.google.com/drive/folders/1FcZuJ4IaQ7XVSfyKo3_yTvyM9ps1HqaO?usp=sharing))
+

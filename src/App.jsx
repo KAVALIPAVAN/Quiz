@@ -156,49 +156,7 @@ function App() {
 
 
   return (
-    // <div className="min-h-screen bg-gradient-to-br from-purple-100 to-indigo-200 p-4">
-    //   <div className="container mx-auto">
-    //     {!started ? (
-    //       <StartQuiz onStart={handleStart} />
-    //     ) : (
-    //       <div className="flex ">
-    //         <Sidebar
-    //           correctAnswers={correctAnswers}
-    //           incorrectAnswers={incorrectAnswers}
-    //           totalQuestions={quizQuestions.length}
-    //           score={score}
-    //           streak={streak}
-    //         />
-    //         <div className="flex-grow ml-64">
-    //           <div className="text-center mb-4">
-    //             <h3 className="text-xl font-semibold">Time Left: {formatTime(timeLeft)}</h3>
-    //           </div>
-    //           {showResults || currentQuestion >= quizQuestions.length ? ( // Check to show results
-    //             <Results
-    //               score={score}
-    //               totalQuestions={quizQuestions.length}
-    //               onRestart={handleRestart}
-    //               correctAnswers={correctAnswers}
-    //               incorrectAnswers={incorrectAnswers}
-    //             />
-    //           ) : (
-    //             <Question
-    //               questionText={quizQuestions[currentQuestion]?.description || ""} // Use description from quizData
-    //               options={quizQuestions[currentQuestion]?.options.map((option) => option.description) || []} // Map options to descriptions
-    //               onAnswer={handleAnswer}
-    //               timeLeft={timeLeft}
-    //               questionNumber={currentQuestion + 1}
-    //               totalQuestions={quizQuestions.length}
-    //               answered={answered}
-    //               correctAnswer={quizQuestions[currentQuestion]?.options.find((option) => option.is_correct)?.description || ""} // Find correct answer
-    //               explanation={quizQuestions[currentQuestion]?.detailed_solution || ""} // Use detailed_solution from quizData
-    //             />
-    //           )}
-    //         </div>
-    //       </div>
-    //     )}
-    //   </div>
-    // </div>
+
     <div className="min-h-screen bg-gradient-to-br from-purple-100 to-indigo-200 p-4">
     <div className="container mx-auto">
       {started ? (

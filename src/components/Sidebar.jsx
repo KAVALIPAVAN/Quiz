@@ -2,46 +2,6 @@
 import { motion } from "framer-motion"
 import { Chart } from "react-google-charts";
 
-// const Sidebar = ({ correctAnswers, incorrectAnswers, totalQuestions, score, streak }) => (
-//   <motion.div
-//     initial={{ opacity: 0, x: -100 }}
-//     animate={{ opacity: 1, x: 0 }}
-//     transition={{ duration: 0.5 }}
-//     className="fixed left-0 top-0 h-full w-64 bg-white shadow-md p-6 flex flex-col justify-center"
-//   >
-//     <div className="mb-8">
-//       <h2 className="text-2xl font-bold mb-4">Quiz Progress</h2>
-//       <div className="w-full bg-gray-200 rounded-full h-2.5 mb-2">
-//         <div
-//           className="bg-purple-600 h-2.5 rounded-full"
-//           style={{ width: `${((correctAnswers + incorrectAnswers) / totalQuestions) * 100}%` }}
-//         ></div>
-//       </div>
-//       <p className="text-sm text-gray-600">
-//         Question {correctAnswers + incorrectAnswers} of {totalQuestions}
-//       </p>
-//     </div>
-//     <div className="space-y-6">
-//       <div>
-//         <h3 className="text-lg font-semibold mb-1">Score</h3>
-//         <p className="text-3xl font-bold text-purple-600">{score}</p>
-//       </div>
-//       <div>
-//         <h3 className="text-lg font-semibold mb-1">Streak</h3>
-//         <p className="text-3xl font-bold text-green-600">{streak}</p>
-//       </div>
-//       <div className="flex items-center justify-between">
-//         <span className="font-semibold">Correct</span>
-//         <span className="text-xl font-bold text-green-600">{correctAnswers}</span>
-//       </div>
-//       <div className="flex items-center justify-between">
-//         <span className="font-semibold">Incorrect</span>
-//         <span className="text-xl font-bold text-red-600">{incorrectAnswers}</span>
-//       </div>
-//     </div>
-//   </motion.div>
-// )
-
 
 
 const Sidebar = ({ correctAnswers, incorrectAnswers, totalQuestions, score, streak }) => {

@@ -40,10 +40,6 @@ This project is a quiz application designed to test your knowledge on various to
 You can view the screenshots and video of the project
 ([https://example.com/path-to-your-image.png](https://drive.google.com/drive/folders/1FcZuJ4IaQ7XVSfyKo3_yTvyM9ps1HqaO?usp=sharing))
 
-## **Screenshots**
-(https://drive.google.com/file/d/1lZ_-8EJZtInJ7DDO3d9Uvee1gHpt6ro7/view)
-
-
 
 ### Steps to Install:
 1. Clone this repository:

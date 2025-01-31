@@ -39,7 +39,7 @@ This project is a quiz application designed to test your knowledge on various to
 ## **Screenshots and Video**
 <p float="left">
   <img src="https://github.com/KAVALIPAVAN/Quiz/blob/main/src/assets/Screenshot%20(19).png?raw=true" width="400" />
-  <img src="https://github.com/KAVALIPAVAN/Quiz/blob/main/src/assets/Screenshot%20(19).png?raw=true" width="400" />
+  <img src="https://github.com/KAVALIPAVAN/Quiz/blob/main/src/assets/Screenshot%20(22).png?raw=true" width="400" />
 </p>
 
 

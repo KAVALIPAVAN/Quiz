@@ -52,18 +52,6 @@ You can view the screenshots and video of the project
    ```bash
    git clone https://github.com/KAVALIPAVAN/Quiz.git
 
-
-### cd quiz:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/KAVALIPAVAN/Quiz.git
-
-
-### Steps to Install:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/KAVALIPAVAN/Quiz.git
- ``
  
 ### Navigate to the project folder:
 
@@ -74,7 +62,7 @@ You can view the screenshots and video of the project
 ### Install dependencies:
 
 ```bash
-npmi i
+npm i
 ```
 ### Start the development server:
 ```bash

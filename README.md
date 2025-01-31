@@ -44,16 +44,17 @@ This project is a quiz application designed to test your knowledge on various to
    ```bash
    git clone https://github.com/KAVALIPAVAN/Quiz.git
    
-2.Navigate to the project folder:
+### Navigate to the project folder:
 
 ```bash
- cd quiz`
+ cd quiz
 
-3)Install dependencies:
+### Install dependencies:
+
 ```bash
-npmi i
+npmi i`
 
-4)Start the development server:
+### Start the development server:
 ```bash
 npm start
 

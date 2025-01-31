@@ -37,8 +37,11 @@ This project is a quiz application designed to test your knowledge on various to
 
 
 ## **Screenshots and Video**
- ![Alt Text](https://github.com/KAVALIPAVAN/Quiz/blob/main/src/assets/Screenshot%20(19).png?raw=true) 
- ![Alt Text](https://github.com/KAVALIPAVAN/Quiz/blob/main/src/assets/Screenshot%20(19).png?raw=true) 
+<p float="left">
+  <img src="https://github.com/KAVALIPAVAN/Quiz/blob/main/src/assets/Screenshot%20(19).png?raw=true" width="400" />
+  <img src="https://github.com/KAVALIPAVAN/Quiz/blob/main/src/assets/Screenshot%20(19).png?raw=true" width="400" />
+</p>
+
 
 You can view the screenshots and video of the project
 ([https://example.com/path-to-your-image.png](https://drive.google.com/drive/folders/1FcZuJ4IaQ7XVSfyKo3_yTvyM9ps1HqaO?usp=sharing))

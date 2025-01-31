@@ -56,7 +56,6 @@ npm start
 Usage
 Once the app is up and running, navigate to http://localhost:3000 to begin your quiz. Enjoy testing your knowledge!
 
-Screenshots
+Screenshots and video
 Example of Quiz Question Screen
-
-Example of Quiz Results Screen
+![Alt text]([https://example.com/path-to-your-image.png](https://drive.google.com/drive/folders/1FcZuJ4IaQ7XVSfyKo3_yTvyM9ps1HqaO?usp=sharing))

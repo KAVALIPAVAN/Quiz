@@ -40,11 +40,14 @@ This project is a quiz application designed to test your knowledge on various to
    ```bash
    git clone https://github.com/KAVALIPAVAN/Quiz.git
 
+ ```bash
 cd quiz
 
-npm install
+ ```bash
+3)npm install
 
-npm start
+ ```bash
+4)npm start
 
 Screenshots
 Example of Quiz Question Screen

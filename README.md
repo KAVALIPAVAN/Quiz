@@ -44,10 +44,11 @@ This project is a quiz application designed to test your knowledge on various to
 cd quiz
 
  ```bash
-3)npm install
+npm install
 
  ```bash
-4)npm start
+npm start
+
 
 Screenshots
 Example of Quiz Question Screen

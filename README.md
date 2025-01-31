@@ -24,12 +24,12 @@ This project is a quiz application designed to test your knowledge on various to
 
 ## **Technology Stack**
 - **Frontend**: React.js
-- **State Management**: React Hooks (`useState`, `useEffect`)
+- **State Management**: React Hooks
+- **Local Storage**
 - **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
+- **Animations**: Framer Motion,Google charts
 - **Confetti**: Canvas Confetti
 
-## **Installation**
 
 ### Prerequisites:
 - Node.js (v16 or above)
@@ -44,8 +44,9 @@ This project is a quiz application designed to test your knowledge on various to
 
 
 You can view the screenshots and video of the project
-([https://example.com/path-to-your-image.png](https://drive.google.com/drive/folders/1FcZuJ4IaQ7XVSfyKo3_yTvyM9ps1HqaO?usp=sharing))
+([Link to the screenshots and video](https://drive.google.com/drive/folders/1FcZuJ4IaQ7XVSfyKo3_yTvyM9ps1HqaO?usp=sharing))
 
+## **Installation**
 
 ### Steps to Install:
 1. Clone this repository:
